@@ -1,0 +1,51 @@
+@import url("//cdn.web-fonts.ge/fonts/archyedt-bold/css/archyedt-bold.min.css");
+*{
+  margin:0;
+  padding:0;
+  position:fixed;
+} 
+  body{
+  background-image:url("img.jpg");
+  }
+button{
+  width:105px;
+  height:90px;
+  background-color:red;
+  color:#FFFFFF;
+  font-size:20px;
+  position:fixed;
+  margin-top:100px;
+  margin-left:-82px;
+  margin-top:200px;
+  font-family: "ArchyEDT-Bold", sans-serif;
+  margin-top:50px;
+  border-radius:10px;
+  
+}
+p{
+  color:white;
+  background-color:#020202;
+  width:100px;
+  height:10px;
+  text-align:center;
+ font-family: "ArchyEDT-Bold", sans-serif;
+  margin-left:150px;
+  margin-top:100px;
+  margin-top:0.4px;
+  position:fixed;
+  margin-top:200px;
+  border-radius:10px;
+}
+body{
+  background-color:#C1C1C1;
+}
+#demo{
+  overflow:hidden;
+  overflow:auto;
+  background:white;
+  color:black;
+  width:100px;
+  height:115px;
+  animation-name:boxer;
+  animation-duration: 6s;
+}
